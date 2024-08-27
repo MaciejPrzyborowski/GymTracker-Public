@@ -1,0 +1,18 @@
+{
+  "black": "#000000",
+  "female": "#8E7CC3",
+  "gold": "#FFD700",
+  "green": "#008000",
+  "grey": "#17161B",
+  "inputTextDefault": "#FFFFFF",
+  "inputTextDark": "#C0C0C0",
+  "inputTextDarker": "#181818",
+  "inputTextBlack": "#000000",
+  "male": "#1E90FF",
+  "red": "#FF0000",
+  "secondaryGold": "#FFED00",
+  "secondaryGrey": "#21242D",
+  "secondaryRed": "#FF5555",
+  "silver": "#C0C0C0",
+  "white": "#FFFFFF"
+}
