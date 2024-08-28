@@ -1,22 +1,22 @@
 # GymTracker
 Repozytorium zawiera aplikację GymTracker, która została zrealizowana przy użyciu języka React Native.\
-Aplikacja umożliwia śledzenie postępów treningowych poprzez monitorowanie spożywania suplementów, wykonywania treningów oraz spożywania posiłków dietetycznych.
+Aplikacja umożliwia śledzenie postępów treningowych poprzez monitorowanie wykonywania treningów oraz spożywania suplementów i posiłków dietetycznych.
 
 ## 🔗 Demo (Android)
 https://play.google.com/store/apps/details?id=com.mp.gymtracker
 
 ## 🚀 Cechy
 - 🏋️‍♂️ Treningi:
-  - ⚙️ Zarządzanie treningami: Dodawanie, edytowanie i usuwanie planów treningowych.
-  - 📅 Harmonogram treningów: Ustalanie dni i godzin treningów.
+  - ⚙️ Zarządzanie treningami: Dodawanie, edytowanie i usuwanie planów.
+  - 📅 Harmonogram treningów: Ustalanie dni i godzin.
 - 💊 Suplementy:
-  - ⚙️ Zarządzanie suplementacją: Dodawanie, edytowanie i usuwanie suplementów.
+  - ⚙️ Zarządzanie suplementacją: Dodawanie, edytowanie i usuwanie.
   - 🎯 Harmonogram suplementacji: Określanie porcji, dni i godzin spożycia.
-  - 📦 Stan suplementów: Śledzenie aktualnego poziomu suplementu.
+  - 📦 Stan suplementów: Śledzenie poziomu zapasów.
 - 📏 Pomiary:
   - ➕ Dodawanie pomiarów: Wzrost, masa ciała, obwody (klatka, talia, biodra, ramię, udo, łydka).
-  - 📜 Historia pomiarów: Przeglądanie zapisanych danych z poprzednich pomiarów.
-  - 📈 Wykresy postępów: Wizualizacja ostatnich pomiarów na wykresie.
+  - 📜 Historia: Przeglądanie danych z poprzednich pomiarów.
+  - 📈 Wizualizacja postępów: Wykresy z ostatnich pomiarów.
 - 📈 Postępy:
   - ✅ Śledzenie zadań: Odhaczanie wykonanych treningów, spożytych suplementów i posiłków.
   - ✏️ Modyfikacje postępów: Aktualizacja spożytej porcji suplementów.
